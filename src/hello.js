@@ -4,7 +4,7 @@
  * @module src/hello
  * @author Johan Leitet <johan.leitet@lnu.se>
  * @author Mats Loock <mats.loock@lnu.se>
- * @author // TODO: YOUR NAME <YOUR EMAIL>
+ * @author Pauliina Raitaniemi <pr222ja@student.lnu.se>
  * @version 1.0.0
  */
 
@@ -18,5 +18,6 @@
  * @returns {string} The greeting 'Hello, World!'.
  */
 export function sayHello () {
+
   // TODO: Write your code here!
 }
