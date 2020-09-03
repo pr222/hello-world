@@ -19,5 +19,5 @@
  */
 export function sayHello () {
 
-  // TODO: Write your code here!
+  return 'Hello, World!'// TODO: Write your code here!
 }
